@@ -1,0 +1,5 @@
+print(Variable)
+
+for i,v in pairs(Table) do
+print(v)
+end
