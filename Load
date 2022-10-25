@@ -1,0 +1,8 @@
+-- Script Hub
+
+local Place = game.PlaceId
+
+local SupportedGames = {
+	SPFS_Earth = 2619187362,
+	SPFS_Space = 6284182556
+}
