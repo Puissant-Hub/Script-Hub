@@ -1,5 +1,3 @@
 print(Variable)
 
-for i,v in pairs(Table) do
-print(v.Name)
-end
+print(Table[1])
